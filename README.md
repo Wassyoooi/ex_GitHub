@@ -60,11 +60,7 @@ branchの作成と移動
 git branch -b branch名
 ```
 
-```
-git checkout branch名 
-```
-
-これでも移動可能
+"git checkout branch名" でも移動可能
 
 
 
