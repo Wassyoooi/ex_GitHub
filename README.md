@@ -57,15 +57,5 @@ branchの作成と移動
 オプションがなければ，そのbranchへと移動する
 
 ```
-git branch -b branch名
+git checkout -b branch名
 ```
-
-"git checkout branch名" でも移動可能
-
-
-
-
-
-
-
-
