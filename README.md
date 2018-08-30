@@ -51,12 +51,23 @@ git branch
 ```
 
 branchの作成と移動
+
 オプション '-b' をつけると新規で作成される
+
 オプションがなければ，そのbranchへと移動する
 
 ```
 git branch -b branch名
 ```
+
+```
+git checkout branch名 
+```
+
+これでも移動可能
+
+
+
 
 
 
