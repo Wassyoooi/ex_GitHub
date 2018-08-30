@@ -1,1 +1,1 @@
-# ex_GitHub
+# Git/GitHubを学ぼう！！
